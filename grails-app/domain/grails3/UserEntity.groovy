@@ -1,6 +1,6 @@
 package grails3
 
-class UserEntitiy {
+class UserEntity {
 
     String loginId
     String password
