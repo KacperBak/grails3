@@ -2,7 +2,7 @@ package grails3
 
 class UserEntityController {
 
-    static scaffold = UserEntity
+    static scaffold = AccountEntity
 
     def index() { }
 }
